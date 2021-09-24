@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-24T09:01:30+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/Shram/Downloads/КААДЫЫРООВ.MP4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./КААДЫЫРООВ.MP4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:25b04d9a-eb7f-49fe-ae95-722a8fc5eac6</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">44</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="10740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="10800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="26299"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="26500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="35730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="37410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="40370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="40720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="51800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="52280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="77090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="77170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="81860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="81910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="93460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="93790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="96100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="96200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="103100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="103250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="111300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="111700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="113300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="113590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="113910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="114080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="114890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="115680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="117320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="117330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="118120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="118170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="125670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="126940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="127200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="127210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="130920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="131460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="140362"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="140447"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="151087"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="151172"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="153212"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="GLUSHCHA" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@RA1976M" TIER_ID="TEXT@RA1976M">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Когда прилетел сюда генерал Дустум / вице-президент Афганистана / он смотрел / ездил / говорит / как вы навели здесь порядок? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>Мы уже сколько лет воюем / погибших больше двух миллион людей / у нас даже нету просвета / мы не видим / как завершить войну / как... когда наступит мирное время? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>А вы навели порядок / восстановили республику / мм... мирное жизнь у вас / как вы этого добились? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Ааа... мы этого добились с помощью Всевышнего //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>Народ / как не было трудно / десятки тысяч погибших / пропавших без вести / инвалиды / несмотря на то что... на всё это / народ сегодня относится с пониманием //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>Ии... если мы каждый месяц / 3 месяц / проводим... статистику / опрос населения / и исходя из этого строим свою политику / экономика / безопасность / социальная / везд... по всем направлениям / народ за 90 процентов всегда поддерживает руководство республики / политику руководства республики //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Очень интересна наш регион и безопасность наших граждан //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>В Росссии 85 регион / десятки национальностей разных религий / никто не защищает никаких прав / только чеченские права чеченцев / защищают все //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>А на самом деле ненавидят нас //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>Ну прав... //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>Правильно //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Правильно ДОН1!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>И я всегда говорю / я уважаю того человека / который воюет / защищает свою позицию там... не знаю... своё направление //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>Да / вот я этого человека / кто бы он не был там / я его уважаю //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>Если болтает / задевая чувствo достоинства человека / то этот человек...заслуживает наказания //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>Если он не п...признаёт свою вину и не извиняется / то я / клянусь именем Всевышнего накажу его / так жестоко что бы мне это не стоило //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>Чувство достоинства нельзя трогать //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="GLUSHCHA" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@AK1988F" TIER_ID="TEXT@AK1988F">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Вы сказали,что... эээ... что если есть те/ которые не представляют угрозы / они болтают и болтают //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Но участились случаи вот извинений в Ваш адрес / уже дажее мемы / шутки пошли / извинись... иначе Рамзан Ахматыч... //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>Уже заранее извиняются // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>Как этот процесс происходит? #Нрзбр# сами выкладывают или может быть... //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>Да / идёт напролом //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="GLUSHCHA" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="words" PARENT_REF="TEXT@RA1976M"
+        PARTICIPANT="@RA1976M" TIER_ID="TRANSL@RA1976M">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>When General Dostum, the Vice President of Afganistan, has arrived here, he was looking over, driving... he says, how did you set the rights? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>We have been at war for years, more than two million people have died, we do not even have a breakthrough, we do not see how to complete the war, how... when will peace come? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>You have restored order, restored the Republic, mm... you have a peaceful life, how have you achieved that? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Aaa...we have achieved taht with the help of Almighty God //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>The nation, no matter how difficult it is, tens of thousands of dead, invalids, despite the fact that... despite all of that, the nation is understanding today //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>And... We maintain statistics, straw poll every month, 3 months and on the basis of this we structure our politics, economics, security, everywhere... on all fronts, more than 90 percents of the nation support the leadership of the Republic, political leadership //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE> Our region and its security are extremely interesting //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>There are 85 regions in Russia, tens of nationalities of different religions, nobody protects any rights, only Chechen rights are protected by everyone //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>But in fact they hate us //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>Well, right... //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>Right //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Right! //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>And I have always said, I respect that man, who fights, protects his position.... I do not know... his area //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>Yes, this person, whoever he is, I respect him //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>If he talks, offending sense of dignity, this man deserves punishment //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>If he does not admit his guilty and does not apologize, I sworn of the name of the Almighty //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>Dignity cannot be touched //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="GLUSHCHA" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="words" PARENT_REF="TEXT@AK1988F"
+        PARTICIPANT="@AK1988F" TIER_ID="TRANSL@AK1988F">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>You said that... hm...if there are those, who constitutes no threat, they takl and talk //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>But the number of apologies to You has increased /  even the jokes / memes have appered / apologize / otherwise Ramzan Akhmatovich... // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>Already apologizing in advance //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>How is this process going? #Indistinctly# do it by themselves or may be... //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>Yes, goes straight through //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation " TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_e2b014ff-1e6c-4a88-9efc-8ee36afdd3f4">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_26e0ad9f-4019-4434-80f7-d6be6e43806c">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b1eeda06-1100-49ea-8fe7-ed3dbd4c15f9">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_dd0b524b-0db2-45e8-a6f4-a77e3cf32251">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ba442232-acd0-4194-b6c2-7cfe6eca24f7">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_aaaa30ec-104e-4c66-9f2e-04c2c359a0ee">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_fc8ec96f-2c84-4098-9e6e-4237ac78394f">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b87846a8-63fa-4227-92cd-b75bfa43655a">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6842fd65-60dc-4872-8835-16cb95532395">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_72f8ed47-1591-41c1-9b5b-19a3ea853f4e">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1f368d70-264a-46b5-a07f-172f9d00ef05">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_dad39ffa-6799-43ac-be27-e0fe349332d2">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f48ce2b6-a63c-47d9-a9d7-7eeeca3e2c54">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_3b94162e-9f09-4322-85fc-9209a8da3fae">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_fb403689-1776-4f5c-8638-4f5604f3208c">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1a4d84b7-359d-4e26-b18a-4a9b2ddf87c6">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5a3208fb-dafa-4cc5-8936-f059df49ce54">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
